@@ -27,7 +27,7 @@ We suggest that you begin by typing:
   3. Open chrome://extensions
   4. Check the Developer mode checkbox
   5. Click on the Load unpacked extension button
-  6. Select the folder new/build
+  6. Select the folder moify/build
 
 ## Contribution
 

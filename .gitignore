@@ -14,3 +14,4 @@ npm-debug.log*
 # packed files
 /release
 /build
+build.7z
