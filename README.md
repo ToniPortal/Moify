@@ -1,11 +1,12 @@
-# <img src="public/icons/icon_48.png" width="45" align="left"> New
+# <img src="public/icons/icon_48.png" width="45" align="left"> Moify
 
-My Chrome Extension
+### manifest V2
+sad...
 
 ## Features
 
-- Feature 1
-- Feature 2
+- Une extension qui permet de modifier tout les mot étudiant par Etudik
+- An extension that lets you modify word : Etudik <- student 
 
 ## Install
 
@@ -28,10 +29,6 @@ We suggest that you begin by typing:
   4. Check the Developer mode checkbox
   5. Click on the Load unpacked extension button
   6. Select the folder moify/build
-
-## Contribution
-
-Suggestions and pull requests are welcomed!.
 
 ---
 
